@@ -20,5 +20,7 @@ Currently all JPA 2.1 features are supported.
 * Hibernate 4.3+
 * OpenJPA 2.0+ (To use all JPA 2.1 features, you have to use OpenJPA 3.0)
 
+Dieses ist eine Test Änderung.
+
 
 © 2008-2019 JPA Security
